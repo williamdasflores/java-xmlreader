@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+	<seller>
+		<name>George Carlos</name>
+		<age>26</age>
+		<costumers>
+			<buyer>Grande Carros LTDA</buyer>
+			<buyer>Tubos Metalicos SA</buyer>
+		</costumers>
+	</seller>
+	<seller>
+		<name>Rodrigo Cesar</name>
+		<age>22</age>
+		<costumers>
+			<buyer>Alite Telecom</buyer>
+			<buyer>guiaminas.com</buyer>
+			<buyer>Company SA</buyer>
+		</costumers>
+	</seller>
+</employee>
